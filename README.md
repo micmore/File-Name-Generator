@@ -22,6 +22,8 @@ Before you can run this application, you need to ensure that Python is installed
    ```bash
    python filenamingtool.py
 The application window will open, allowing you to input the necessary details and generate the file name.
+![FineNameGenerator](https://media.giphy.com/media/PuMzQGZlF5I3RjiY3G/giphy.gif)
+
 
 ## Usage
 
