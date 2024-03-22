@@ -1,6 +1,6 @@
-# File Name Generator for College Assignments
+# File Naming Tool
 
-This application assists college students in generating standardized file names for their assignments. It ensures that all files are named consistently, following a specific format that includes the course type, course number, module/chapter, assignment name, and the current date.
+This application assists in generating standardized file names for their assignments. It ensures that all files are named consistently, following a specific format. I created this for my college courses. The program includes the course type, course number, module/chapter, assignment name, and the current date.
 
 ## Features
 
