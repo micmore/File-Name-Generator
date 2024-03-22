@@ -20,7 +20,7 @@ Before you can run this application, you need to ensure that Python is installed
 4. Run the script using the following command:
 
    ```bash
-   python filename_generator.py
+   python filenamingtool.py
 The application window will open, allowing you to input the necessary details and generate the file name.
 
 ## Usage
